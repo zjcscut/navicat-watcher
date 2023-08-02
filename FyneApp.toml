@@ -1,0 +1,8 @@
+Website = "https://vlts.cn"
+
+[Details]
+  Icon = "logo.png"
+  Name = "NavicatWatcher"
+  ID = "cn.vlts.navicat.watcher"
+  Version = "1.0.0"
+  Build = 4
