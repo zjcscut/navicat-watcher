@@ -5,4 +5,4 @@ Website = "https://vlts.cn"
   Name = "NavicatWatcher"
   ID = "cn.vlts.navicat.watcher"
   Version = "1.0.0"
-  Build = 4
+  Build = 5
