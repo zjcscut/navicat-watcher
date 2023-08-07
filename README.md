@@ -45,6 +45,12 @@ You can press the 'copy' button on the right to copy the item content to system 
 - [how-does-navicat-encrypt-password](https://github.com/HyperSine/how-does-navicat-encrypt-password)
 - [fyne](https://github.com/fyne-io/fyne)
 
+## Donation
+
+|                                         Wechat 微信支付                                         |                                        Alipay 支付宝支付                                        |
+| :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| <img src="https://throwable-blog-1256189093.cos.ap-guangzhou.myqcloud.com/mine/wechat-code-400.png" alt="Buy Me A Coffee" width="150"> | <img src="https://throwable-blog-1256189093.cos.ap-guangzhou.myqcloud.com/mine/square-alipay.png" alt="Buy Me A Coffee" width="150"> |
+
 ## Warning
 
 - **Warning** - This project is for reference and learning only, for use in local environments
